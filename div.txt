@@ -1,0 +1,5 @@
+//Division here
+int div(){
+int a=4,b=2;
+return a/b;
+}
